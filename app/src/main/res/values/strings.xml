@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica2_Campos_Aguirre_Lilian_Michel</string>
+    <array name="clavebusqueda">
+        <item>Nombre restaurant</item>
+        <item>Domicilio restaurant</item>
+    </array>
+</resources>

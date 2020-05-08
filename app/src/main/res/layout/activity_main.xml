@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="15dp"
+        android:hint="NOMBRE RESTAURANT" />
+
+    <EditText
+        android:id="@+id/domicilio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="15dp"
+        android:hint="DOMICILIO" />
+
+    <EditText
+        android:id="@+id/celular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:inputType="textPersonName"
+        android:hint="CELULAR"/>
+
+
+    <CheckBox
+        android:id="@+id/pedidoProducto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEDIDO/PRODUCTO"
+        android:textSize="15dp"
+        android:checked="false"/>
+
+    <CheckBox
+        android:id="@+id/pedidoDescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEDIDO/DESCRIPCION"
+        android:textSize="15dp"
+        android:checked="false"/>
+
+    <EditText
+        android:id="@+id/producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="15dp"
+        android:hint="PRODUCTO" />
+
+    <EditText
+        android:id="@+id/descripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="15dp"
+        android:hint="DESCRIPCION" />
+
+    <EditText
+        android:id="@+id/precio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:textSize="15dp"
+        android:hint="PRECIO" />
+
+
+    <EditText
+        android:id="@+id/cantidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:textSize="15dp"
+        android:hint="CANTIDAD" />
+
+
+    <EditText
+        android:id="@+id/entregado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="15dp"
+        android:hint="ENTREGADO" />
+
+
+    <Button
+        android:id="@+id/btnInsertar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INSERTAR"
+        android:textSize="15dp"
+        />
+
+    <Button
+        android:id="@+id/btnConsulta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONSULTA"
+        android:textSize="15dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/resultado"
+        android:textSize="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RESULTADO" />
+    </ScrollView>
+
+
+</LinearLayout>

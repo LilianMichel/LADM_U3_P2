@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "208079790514",
+    "firebase_url": "https://ladm-ejercicio7firebase.firebaseio.com",
+    "project_id": "ladm-ejercicio7firebase",
+    "storage_bucket": "ladm-ejercicio7firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208079790514:android:2ff4389a64341d3cae84ab",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_ejercicio7_firebasefirestore1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS89anYZz-pRoBOwAW6krPPt7wuFnhP-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208079790514:android:24de66601c902dfcae84ab",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_ejercicio8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS89anYZz-pRoBOwAW6krPPt7wuFnhP-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208079790514:android:8b5aadb0272efd46ae84ab",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica2_campos_aguirre_lilian_michel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS89anYZz-pRoBOwAW6krPPt7wuFnhP-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208079790514-il11vq6gh9o2igl65oqd5bdkd82nrjkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
